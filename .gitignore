@@ -4,3 +4,7 @@ garden_file.dat
 garden_file.json
 sqlite/
 *.swp
+
+# Go port build output
+/botany
+*_plant.json
